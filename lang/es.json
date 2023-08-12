@@ -1,3 +1,5 @@
 {
-  "app_name": "Flutter Boilerplate"
+  "app_name": "Flutter Boilerplate",
+  "cancel": "Cancelar",
+  "continue": "Continuar"
 }
