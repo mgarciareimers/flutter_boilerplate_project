@@ -1,16 +1,8 @@
-# flutter_boilerplate_project
+# Welcome!
 
-A Flutter Boilerplate Project
+Bienvenido a mi proyecto "Boilerplate" de Flutter. Aquí podrás encontrar la estructuración que sigo en mis proyectos, Widgets personalizados y otras curiosidades de Flutter. 
 
 ## Getting Started
+Para empezar, descárgate el proyecto, ábrelo en tu IDE favorito (yo utilizo Android Studio) y échale un vistazo al contenido. Este proyecto lo estoy creando para mi canal de Youtube, en el que explico paso a paso qué hago como desarrollador de Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+El enlace a mi canal es el siguiente: https://www.youtube.com/channel/UCiTuIddjGH6ulRa4mfW3trw
